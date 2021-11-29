@@ -1,0 +1,11 @@
+ input[type="search"] {
+   		 border: solid;
+    	border-width: 1px;
+	}
+	input.sb-search-submit {
+    border: solid;
+    border-width: 1px;
+    border-block-color: black;
+    border-left-color: black;
+    border-right-color: black;
+}

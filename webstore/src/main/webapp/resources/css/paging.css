@@ -1,0 +1,24 @@
+.page-num{
+	display:inline-block;
+	text-align:center;
+	padding: 5px;
+	background-color:#ffcc99;
+	color: #000000;
+	margin-left: 5px;
+	min-width: 30px;
+}
+.page-num:hover{
+	background-color: #ff9933;
+	border: 1px solid;
+	color:#ffffff;
+}
+.btnActive{
+	background-color: #ff9933;
+	border: 1px solid;
+	color:#ffffff;
+}
+.page-number-content{
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
